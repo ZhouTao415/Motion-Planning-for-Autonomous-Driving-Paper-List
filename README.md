@@ -2,7 +2,7 @@
 
 
 ---
-- [Pose Estimation](#Pose-Estimation)
+- [Motion planning](#Motion-planning)
 - [Others](#Ohters)
 ---
 
@@ -12,7 +12,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 <!-- - [[Arxiv](https)] PoseCNN [[GitHub](https)] [[Project](https)] :fire: :star: -->
 
-## Pose Estimation
+## Motion planning
 e.g. - [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] paper name [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
 
 #### Before 2022
