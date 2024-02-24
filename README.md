@@ -15,7 +15,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 <!-- - [[Arxiv](https)] PoseCNN [[GitHub](https)] [[Project](https)] :fire: :star: -->
 
 ## Reinforcement Learning based Method
-e.g. - [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] paper_name [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
 
 #### Before 2024
 - [[CVPR 2022](https://arxiv.org/pdf/2203.13254.pdf)] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
@@ -43,7 +42,7 @@ e.g. - [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] paper_name [[GitHub](http
 #### Before 2022
 
 #### Before 2021
-- [[TOG 2019](https://arxiv.org/pdf/1801.07829.pdf)] Dynamic Graph CNN for Learning on Point Clouds [[Project](https://liuziwei7.github.io/projects/DGCNN)] :fire: :star:
+- [[Arxiv]([https](https://arxiv.org/pdf/2002.00444.pdf))] Deep Reinforcement Learning for Autonomous Driving: A Survey :star:
 
 ---
 
