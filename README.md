@@ -16,20 +16,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## Motion planning
 e.g. - [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] paper_name [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
 
-#### Before 2022
+#### Before 2024
 - [[CVPR 2022](https://arxiv.org/pdf/2203.13254.pdf)] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
 - 
-#### Before 2021
+#### Before 2023
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 
 
-#### Before 2020
+#### Before 2022
 - [[CVPR 2020](https://arxiv.org/abs/1809.1079)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [[GitHub](https://github.com/ethnhe/PVN3D)] :fire: :star:
 
 
 
-#### Before 2019
+#### Before 2021
 - [[CVPR 2019](https://arxiv.org/abs/1901.04780)] DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [[GitHub](https://github.com/j96w/DenseFusion)]  [[Project](https://sites.google.com/view/densefusion/)] :fire: :star:
 
 
