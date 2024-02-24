@@ -1,4 +1,4 @@
-# Motion-Planning-for-Autonomous-Driving-Paper-List
+# Motion Planning for Autonomous Driving Paper List
 
 -Code Provided by this [[git](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)]
 
