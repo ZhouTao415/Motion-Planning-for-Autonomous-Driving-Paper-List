@@ -35,6 +35,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 #### Survey-Review
 - [[Arxiv 2021](https://arxiv.org/pdf/2002.00444.pdf)] Deep Reinforcement Learning for Autonomous Driving: A Survey :star:
+- [[IEEE 2020](https://arxiv.org/pdf/2001.11231.pdf)] Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles :star:
+- 
 ---
 
 ## Ohters
