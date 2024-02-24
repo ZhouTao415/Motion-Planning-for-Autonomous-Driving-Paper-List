@@ -42,7 +42,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 #### Before 2022
 
 #### Before 2021
-- [[Arxiv]((https://arxiv.org/pdf/2002.00444.pdf))] Deep Reinforcement Learning for Autonomous Driving: A Survey :star:
+- [[Arxiv](https://arxiv.org/pdf/2002.00444.pdf)] Deep Reinforcement Learning for Autonomous Driving: A Survey :star:
 
 ---
 
