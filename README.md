@@ -4,6 +4,7 @@
 
 ---
 - [Motion planning](#Motion-planning)
+  - Reinforcement Learning based Method
 - [Others](#Ohters)
 ---
 
