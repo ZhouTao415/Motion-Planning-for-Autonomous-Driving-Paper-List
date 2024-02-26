@@ -34,10 +34,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 #### Survey-Review
+- [[IEEE 2023](https://arxiv.org/pdf/2303.09824.pdf)] Motion planning for autonomous driving: The state of the art and future perspectives :star:
 - [[Arxiv 2022](https://www.sciencedirect.com/science/article/pii/S1319157822000970)] A Comprehensive Survey on the Application of Deep and Reinforcement Learning Approaches in Autonomous Driving 
 - [[Arxiv 2021](https://arxiv.org/pdf/2002.00444.pdf)] Deep Reinforcement Learning for Autonomous Driving: A Survey :star:
 - [[IEEE 2020](https://arxiv.org/pdf/2001.11231.pdf)] Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles :star:
-- 
 ---
 
 ## Ohters
