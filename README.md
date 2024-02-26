@@ -21,7 +21,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - 
 #### Before 2023
-- [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
+- [[Arxiv 2022](https://arxiv.org/pdf/2309.00709.pdf)] Reinforcement Learning with Human Feedback for Realistic Traffic Simulation
 
 
 #### Before 2022
