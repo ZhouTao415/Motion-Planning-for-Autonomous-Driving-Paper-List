@@ -45,6 +45,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 #### Reinforcement Learning 
 - [[IEEE 2017](https://discovery.ucl.ac.uk/id/eprint/10083557/1/1708.05866v2.pdf)] Deep reinforcement learning: A brief survey :star:
 
+## Books
+
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 
 ---
