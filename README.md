@@ -25,7 +25,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 #### Before 2022
-- [[nature 2022](https://www.nature.com/articles/s41586-021-04357-7)] Outracing champion Gran Turismo drivers with deep reinforcement learning :fire
+- [[nature 2022](https://www.nature.com/articles/s41586-021-04357-7)] Outracing champion Gran Turismo drivers with deep reinforcement learning :fire:
 
 
 
