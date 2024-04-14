@@ -17,7 +17,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## Reinforcement Learning based Method
 
 #### Before 2024
-- [[Arxiv 2024](https://arxiv.org/pdf/2402.01465.pdf)]A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving [[GitHub](https://github.com/TUM-AVS/Frenetix-RL)]
+- [[Arxiv 2024](https://arxiv.org/pdf/2402.01465.pdf)] A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving [[GitHub](https://github.com/TUM-AVS/Frenetix-RL)]
 
 - 
 #### Before 2023
