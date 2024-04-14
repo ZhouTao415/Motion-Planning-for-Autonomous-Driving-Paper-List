@@ -25,7 +25,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 #### Before 2022
-- [[CVPR 2020](https://arxiv.org/abs/1809.1079)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [[GitHub](https://github.com/ethnhe/PVN3D)] :fire: :star:
+- [[nature 2022](https://www.nature.com/articles/s41586-021-04357-7)] Outracing champion Gran Turismo drivers with deep reinforcement learning :fire
 
 
 
