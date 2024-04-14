@@ -17,7 +17,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## Reinforcement Learning based Method
 
 #### Before 2024
-- [[CVPR 2022](https://arxiv.org/pdf/2203.13254.pdf)] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+- [[Arxiv 2024](https://arxiv.org/pdf/2402.01465.pdf)]A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving
 
 - 
 #### Before 2023
