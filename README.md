@@ -19,7 +19,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ### Before 2024
 - [[Arxiv 2024](https://arxiv.org/pdf/2402.01465.pdf)] A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving [[GitHub](https://github.com/TUM-AVS/Frenetix-RL)]
 
-- 
+
 ### Before 2023
 - [[Arxiv 2022](https://arxiv.org/pdf/2309.00709.pdf)] Reinforcement Learning with Human Feedback for Realistic Traffic Simulation
 - [[Science Robotics 2023](https://arxiv.org/pdf/2310.10943.pdf)] Reaching the limit in autonomous racing: Optimal control versus reinforcement learning
